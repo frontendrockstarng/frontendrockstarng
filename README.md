@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Pelumi. I am UX engineer. I'm simply a product designer that can write in JS so I understand web technologies and know not to create ambigous designs like the ones on dribble that give devs headache.
+- 👋 Hi, I’m DA. I am UX engineer. I'm simply a product designer that can write in JS so I understand web technologies and know not to create ambigous designs like the ones on dribble that give devs headache.
 - 👀 I’m interested in Music, theatre and football
 - 🌱 I’m currently learning React js and APIs
 - 💞️ I’m open to roles related to product designing, ux/ui designing, ux engineering.
